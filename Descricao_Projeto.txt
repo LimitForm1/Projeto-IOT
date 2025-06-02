@@ -1,0 +1,16 @@
+Este artigo apresenta o desenvolvimento de um sistema distribuído de coleta de 
+dados para alertas precoces de risco de deslizamento de terra. Os deslizamentos de terra são 
+desastres naturais graves no Brasil, especialmente em áreas urbanas, frequentemente 
+afetando comunidades densamente povoadas e vulneráveis. O projeto propõe uma solução 
+tecnológica baseada em monitoramento automatizado e processamento de dados para 
+detectar fatores de risco, como níveis de precipitação, umidade do solo e inclinação do 
+terreno. O objetivo é emitir alertas oportunos que permitam que populações em risco busquem 
+abrigo antes que o desastre ocorra, minimizando tanto perdas humanas quanto ambientais. 
+A iniciativa está alinhada com diversos Objetivos de Desenvolvimento Sustentável (ODS) da 
+Organização das Nações Unidas (ONU), particularmente o ODS 11 – Cidades e Comunidades 
+Sustentáveis, ao promover ambientes urbanos mais seguros e resilientes; o ODS 13 – Ação 
+Contra a Mudança Global do Clima, ao melhorar a resposta a eventos climáticos extremos; e 
+os ODS 14 e 15 – Vida na Água e Vida Terrestre, considerando os impactos negativos que 
+deslizamentos podem ter sobre rios, bacias hidrográficas e ecossistemas terrestres. Dessa 
+forma, o sistema contribui para a construção de sociedades mais sustentáveis e resilientes a 
+desastres por meio da inovação e da conscientização ambiental.
