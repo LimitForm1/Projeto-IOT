@@ -8,6 +8,7 @@ E,
 Também usamos os softwares BrokerMqtt, Node-Red, InfluxDB, Grafana e CallMeBot, para, respectivamente, receber o valor detectado pelo arduino, gerenciar as informações detectadas, guardar os dados, facilitar a visualização de tais dados por meio de um dashboard e similuar um alerta por meio de uma mensagem enviada para o WhatsApp.
 
 BrokerMqtt:
+![Broker](https://github.com/user-attachments/assets/f31a6f83-2da8-4dbb-9c9d-037e95b57501)
 
 Node-Red:
 
