@@ -5,6 +5,7 @@ Para isso, usamos os materiais WEMOS D1 Mini Pro:
 ![Captura de tela 2025-06-03 100006](https://github.com/user-attachments/assets/a447939b-5ec5-4f87-a0e3-19001ba02bd2)
 
 E, um higrômetro:
+
 ![Captura de tela 2025-06-03 100026](https://github.com/user-attachments/assets/8a0056a7-41f4-43e9-bba1-81f7d26b7db7)
 
 Também usamos os softwares Arduino IDE, BrokerMqtt, Node-Red, InfluxDB, Grafana e CallMeBot, para, respectivamente, implementar o código da aplicação no arduino, receber o valor detectado pelo arduino, gerenciar as informações detectadas, guardar os dados, facilitar a visualização de tais dados por meio de um dashboard e similuar um alerta por meio de uma mensagem enviada para o WhatsApp.
