@@ -3,9 +3,12 @@ desastres naturais graves no Brasil, especialmente em áreas urbanas, frequentem
 
 Para isso, usamos os materiais WEMOS D1 Mini Pro:
 
-E, 
+E, um Higrômetro
 
-Também usamos os softwares BrokerMqtt, Node-Red, InfluxDB, Grafana e CallMeBot, para, respectivamente, receber o valor detectado pelo arduino, gerenciar as informações detectadas, guardar os dados, facilitar a visualização de tais dados por meio de um dashboard e similuar um alerta por meio de uma mensagem enviada para o WhatsApp.
+Também usamos os softwares Arduino IDE, BrokerMqtt, Node-Red, InfluxDB, Grafana e CallMeBot, para, respectivamente, implementar o código da aplicação no arduino, receber o valor detectado pelo arduino, gerenciar as informações detectadas, guardar os dados, facilitar a visualização de tais dados por meio de um dashboard e similuar um alerta por meio de uma mensagem enviada para o WhatsApp.
+
+Arduino IDE:
+![Captura de tela 2025-06-03 105450](https://github.com/user-attachments/assets/fe8fd1ba-ae67-477f-8620-5dabd4fd78da)
 
 BrokerMqtt:
 ![Broker](https://github.com/user-attachments/assets/f31a6f83-2da8-4dbb-9c9d-037e95b57501)
